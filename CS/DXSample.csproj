@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Images.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
+    <Reference Include="DevExpress.Images.v16.1, Version=16.1.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a">
       <Private>True</Private>
     </Reference>
     <Reference Include="DevExpress.Xpf.Core.v16.1" />
@@ -44,7 +44,7 @@
     </Reference>
     <Reference Include="DevExpress.Printing.v16.1.Core" />
     <Reference Include="DevExpress.Mvvm.v16.1" />
-    <Reference Include="DevExpress.Xpf.Themes.Office2016Black.v16.1, Version=16.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpf.Themes.Office2016Black.v16.1, Version=16.1.17.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Xpf.Themes.Office2016White.v16.1" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
